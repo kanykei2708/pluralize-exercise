@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/siirila/pluralize-exercise/issues"
   },
-  "homepage": "https://github.com/siirila/pluralize-exercise#readme"
+  "homepage": "https://github.com/siirila/pluralize-exercise#readme",
+  "dependencies": {
+    "pluralize": "^8.0.0"
+  }
 }
